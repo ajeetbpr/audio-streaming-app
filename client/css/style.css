@@ -1,0 +1,9 @@
+.container {
+	margin-top:300px;
+}
+
+#counter{
+	font-size: 18px;
+	font-weight: bold;
+	margin-left:200px;
+}

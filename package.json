@@ -1,0 +1,17 @@
+{
+  "name": "socket-project",
+  "version": "1.0.0",
+  "description": "task for test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./server/app.js"
+  },
+  "author": "ajeet singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "socket.io": "^2.1.1"
+  }
+}
